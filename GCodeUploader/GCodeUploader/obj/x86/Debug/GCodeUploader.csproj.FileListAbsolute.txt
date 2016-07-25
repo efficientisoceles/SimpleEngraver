@@ -1,0 +1,9 @@
+C:\Users\Daniel\documents\visual studio 2010\Projects\GCodeUploader\GCodeUploader\obj\x86\Debug\GCodeUploader.Form1.resources
+C:\Users\Daniel\documents\visual studio 2010\Projects\GCodeUploader\GCodeUploader\obj\x86\Debug\GCodeUploader.Properties.Resources.resources
+C:\Users\Daniel\documents\visual studio 2010\Projects\GCodeUploader\GCodeUploader\obj\x86\Debug\GCodeUploader.csproj.GenerateResource.Cache
+C:\Users\Daniel\documents\visual studio 2010\Projects\GCodeUploader\GCodeUploader\bin\Debug\GCodeUploader.exe
+C:\Users\Daniel\documents\visual studio 2010\Projects\GCodeUploader\GCodeUploader\bin\Debug\GCodeUploader.pdb
+C:\Users\Daniel\documents\visual studio 2010\Projects\GCodeUploader\GCodeUploader\obj\x86\Debug\GCodeUploader.exe
+C:\Users\Daniel\documents\visual studio 2010\Projects\GCodeUploader\GCodeUploader\obj\x86\Debug\GCodeUploader.pdb
+C:\Users\Daniel\documents\visual studio 2010\Projects\GCodeUploader\GCodeUploader\obj\x86\Debug\GCodeUploader.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\GCodeUploader\GCodeUploader\obj\x86\Debug\GCodeUploader.SelectPort.resources
